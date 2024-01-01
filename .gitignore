@@ -1,0 +1,16 @@
+a.out
+main
+b
+
+.vscode/
+
+venv/
+aoc-env/
+
+CMakeFiles/
+build_result/
+cmake_install.cmake
+CMakeCache.txt
+Makefile
+
+input.txt
